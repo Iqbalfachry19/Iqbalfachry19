@@ -4,4 +4,3 @@
 - 🌱 I’m learning Zero-Knowledge Proofs & Privacy tech
 - ⚡ Fun fact: I love combining AI & blockchain
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=iqbalfachry&show_icons=true)
