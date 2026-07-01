@@ -1,6 +1,5 @@
-# Hi, I’m Iqbal Fachry
-I am a software engineer with a strong interest in web3, formally verifiable systems, cryptography, and the mathematical foundations of computation. I actively work on designing and developing software systems that prioritize correctness, scalability, security, and privacy from first principles.
+Hi, I'm Iqbal Fachry.
 
-My current focus is on Zero-Knowledge Proofs and privacy-preserving technologies, including ZK-based architectures, cryptographic protocols, and trust-minimized computation. I am particularly interested in how formal logic, axiomatic systems, and system design can be combined to build software that is provably correct and verifiable by construction, with a strong emphasis on the K Framework / FastSet.
-
-In parallel, I explore the intersection of artificial intelligence and formal methods, especially in areas such as verifiable computation, privacy-aware AI, and logic-driven system modeling. I enjoy working on complex technical problems that sit at the boundary between theory and real-world implementation.
+I am a Software Engineer specializing in Web3 infrastructure, protocol engineering, AI agent systems, and privacy-preserving technologies. I enjoy building production-grade software ranging from smart contracts and decentralized applications to developer tooling, AI-powered systems, and blockchain infrastructure.
+My current interests include Zero-Knowledge Proofs (ZK), Trusted Execution Environments (TEE), AI agents, formal verification, and scalable blockchain protocols. I enjoy designing systems that prioritize correctness, security, developer experience, and long-term maintainability.
+I actively participate in hackathons and open-source projects across ecosystems including Solana, Sui, EVM, FastSet, with a focus on building practical systems that bridge research ideas with real-world applications.
